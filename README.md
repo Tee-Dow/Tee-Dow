@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tee-Dow
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning HTML, CSS and Python
+- 🌱 I’m currently learning Python, Javascript and ethical hacking 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me code 
 
